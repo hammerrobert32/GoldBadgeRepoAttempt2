@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe_Console", "Cafe_Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claims_Repository", "ClassLibrary1\Claims_Repository.csproj", "{292072E1-4770-4A7E-B9FA-2E4F4EDC3170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claims_Unit_Tests", "Claims_Unit_Tests\Claims_Unit_Tests.csproj", "{88E3F8AA-F2FE-401B-AEE4-CBDDD6B299E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claims_Console", "Claims_Console\Claims_Console.csproj", "{412868C7-3D12-4BC2-AA10-7800FAFC86F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{292072E1-4770-4A7E-B9FA-2E4F4EDC3170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{292072E1-4770-4A7E-B9FA-2E4F4EDC3170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{292072E1-4770-4A7E-B9FA-2E4F4EDC3170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E3F8AA-F2FE-401B-AEE4-CBDDD6B299E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E3F8AA-F2FE-401B-AEE4-CBDDD6B299E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E3F8AA-F2FE-401B-AEE4-CBDDD6B299E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E3F8AA-F2FE-401B-AEE4-CBDDD6B299E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{412868C7-3D12-4BC2-AA10-7800FAFC86F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412868C7-3D12-4BC2-AA10-7800FAFC86F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412868C7-3D12-4BC2-AA10-7800FAFC86F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412868C7-3D12-4BC2-AA10-7800FAFC86F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
